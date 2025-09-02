@@ -255,8 +255,8 @@
 <p dir="auto">MohammadReza Yazdaniyan 
     <!-- <a href="https://twitter.com/your_username" rel="nofollow">@your_twitter</a> -->
      - 
-     <a href="mailto:mohammad.r.yazdaniyan@gmail.com">mohammad.r.yazdaniyan@gmail.com</a>
+     <a href="mailto:mohammadreza.yazdanian.prog@gmail.com">mohammad.r.yazdaniyan@gmail.com</a>
 </p>
-<p dir="auto">Project Link: <a href="https://github.com/MohammadReza96/supermarket-website-with-Python-Django">https://github.com/MohammadReza96/supermarket-website-with-Python-Django</a></p>
+<p dir="auto">Project Link: <a href="https://github.com/Mr-Yazdanian-Dev/supermarket-website-with-Python-Django-main">https://github.com/MohammadReza96/supermarket-website-with-Python-Django</a></p>
 <p align="right" dir="auto">(<a href="#readme-top">back to top</a>)</p>
 </article>
