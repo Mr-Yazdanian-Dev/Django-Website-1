@@ -1,8 +1,6 @@
 <article class="markdown-body entry-content container-lg" itemprop="text">
 <p dir="auto"><a name="user-content-readme-top"></a></p>
 
-<a href="https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt"><img src="https://camo.githubusercontent.com/111148992d0253f8d5e36b62087d48a9eabb1d7244b2b7316214f47d5c9a8781/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6f74686e65696c647265772f426573742d524541444d452d54656d706c6174652e7376673f7374796c653d666f722d7468652d6261646765" alt="MIT License" data-canonical-src="https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge" style="max-width: 100%;"></a>
-
 <br>
 <div align="center" dir="auto">
   <a href="https://github.com/othneildrew/Best-README-Template">
@@ -29,12 +27,8 @@
     <li>
         <a href="#usage">Usage</a>
         <ul dir="auto">
-            <li><a href="#home-page">home page</a></li>
-            <li><a href="#compare-page">compare page</a></li>
-            <li><a href="#order-page">order page</a></li>
-            <li><a href="#favorite-page">favorite page</a></li>
-            <li><a href="#userpanel-page">userpanel page</a></li>
-            <li><a href="#blog-page">blog page</a></li>
+            <li><a href="#home-page">Home page & Favorite page & Order page</a></li>
+            <li><a href="#compare-page">Compare page & Blog page & purchase history page</a></li>
         </ul>
     </li>
     <li><a href="#license">License</a></li>
@@ -43,54 +37,48 @@
 </details>
 
 
+<p align="right" dir="auto">(<a href="#readme-top">back to top</a>)</p>
+
+<hr>
+<h3 tabindex="-1" dir="auto"><a id="user-content-built-with" class="anchor" aria-hidden="true" href="#built-with"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Built With</h3>
+
+The main technologies used in this project are:
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/AJAX_logo_by_gengns.svg" alt="AJAX" width="100" height="100"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MariaDB" width="50" height="50"/>
+</p>
+<p align="right" dir="auto">(<a href="#readme-top">back to top</a>)</p>
 
-
-<h2 tabindex="-1" dir="auto"><a id="user-content-about-the-project" class="anchor" aria-hidden="true" href="#about-the-project"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Overview of Project</h2>
-<p dir="auto"><a href="https://example.com" rel="nofollow" style="margin: 10px auto;">
+<hr>
+<h3 tabindex="-1" dir="auto"><a id="user-content-built-with" class="anchor" aria-hidden="true" href="#built-with"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Overview</h3>
   <ul dir="auto">
     <li id="home-page">
-        Home page
+        Home page & Favorite page & Order page
     </li>
 </ul>
   <img src="https://github.com/MohammadReza96/Dj-supermarket/assets/108836322/560e7eb7-2418-49a9-9fd4-af0c5019c1e7" alt="Product Name Screen Shot" style="width:300px;">
-<hr>
-<ul dir="auto">
-    <li id="favorite-page">
-        Favorite page
-    </li>
-</ul>
-<img src="https://github.com/MohammadReza96/Dj-supermarket/assets/108836322/185bcee4-fa41-46b7-a509-d39f1e9ec4dc" alt="Product Name Screen Shot" style="width: 300px;">
-<hr>
-<ul dir="auto">
-    <li id="order-page">
-        Order page
-    </li>
-</ul>
-<img src="https://github.com/MohammadReza96/Dj-supermarket/assets/108836322/fec74c1f-305a-4afe-a3d5-40cba9268528" alt="Product Name Screen Shot" style="width: 300px;">
+  <img src="https://github.com/MohammadReza96/Dj-supermarket/assets/108836322/185bcee4-fa41-46b7-a509-d39f1e9ec4dc" alt="Product Name Screen Shot" style="width: 300px;">
+  <img src="https://github.com/MohammadReza96/Dj-supermarket/assets/108836322/fec74c1f-305a-4afe-a3d5-40cba9268528" alt="Product Name Screen Shot" style="width: 300px;">
 <hr>
 <ul dir="auto">
     <li id="compare-page">
-        Compare page
+        Compare page & Blog page & purchase history page
     </li>
 </ul>
-<img src="https://github.com/MohammadReza96/Dj-supermarket/assets/108836322/9e55a0cb-260a-46cc-a2ea-4825de285d30" alt="Product Name Screen Shot" style="width: 300px;">
-<hr>
-<ul dir="auto">
-    <li id="blog-page">
-        Blog page
-    </li>
-</ul>
-<img src="https://github.com/MohammadReza96/Dj-supermarket/assets/108836322/b3ca8dee-5a18-4681-a211-a5c50ff3e27d" alt="Product Name Screen Shot" style="width: 300px;">
-<hr>
-<ul dir="auto">
-    <li id="userpanel-page">
-        userpanel purchase history page
-    </li>
-</ul>
-<img src="https://github.com/MohammadReza96/Dj-supermarket/assets/108836322/4c41d642-fa7a-42d8-abc4-9789956b0a2f" alt="Product Name Screen Shot" style="width: 300px;">
-  
+  <img src="https://github.com/MohammadReza96/Dj-supermarket/assets/108836322/9e55a0cb-260a-46cc-a2ea-4825de285d30" alt="Product Name Screen Shot" style="width: 300px;">
+  <img src="https://github.com/MohammadReza96/Dj-supermarket/assets/108836322/b3ca8dee-5a18-4681-a211-a5c50ff3e27d" alt="Product Name Screen Shot" style="width: 300px;">
+  <img src="https://github.com/MohammadReza96/Dj-supermarket/assets/108836322/4c41d642-fa7a-42d8-abc4-9789956b0a2f" alt="Product Name Screen Shot" style="width: 300px;">
+
+<p align="right" dir="auto">(<a href="#readme-top">back to top</a>)</p>
+<hr>  
 </a></p>
 <h3 dir="auto">In this website we have the applications below:</h3>
 <ul dir="auto">
@@ -110,40 +98,17 @@
 
 <p align="right" dir="auto">(<a href="#readme-top">back to top</a>)</p>
 
-
-<h3 tabindex="-1" dir="auto"><a id="user-content-built-with" class="anchor" aria-hidden="true" href="#built-with"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Built With</h3>
-
-The main technologies used in this project are:
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/AJAX_logo_by_gengns.svg" alt="AJAX" width="100" height="100"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MariaDB" width="50" height="50"/>
-</p>
-<p align="right" dir="auto">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<h2 tabindex="-1" dir="auto"><a id="user-content-getting-started" class="anchor" aria-hidden="true" href="#getting-started"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Getting Started</h2>
+<hr>
+<h3 tabindex="-1" dir="auto"><a id="user-content-built-with" class="anchor" aria-hidden="true" href="#built-with"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>installation steps</h3>
 <p dir="auto">
     At first you need to install Python on your local system. you can use <a href="https://www.python.org/downloads/">this link </a> to install it.
-
-
-<h3 tabindex="-1" dir="auto"><a id="user-content-installation" class="anchor" aria-hidden="true" href="#installation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Installation</h3>
-<p dir="auto">
-    <em>
-        With the steps below you can run the project on your local system
-
-    </em>
+</p>
+<P dir="auto">
+    With the steps below you can run the project on your local system
 </p>
 <ol dir="auto">
 <li>Clone the repo
-<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>git clone https://github.com/Mr-Yazdanian-Dev/supermarket-website-with-Python-Django-main.git</pre><div class="zeroclipboard-container position-absolute right-0 top-0">
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>git clone https://github.com/Mr-Yazdanian-Dev/Django-Website-1.git</pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="git clone https://github.com/your_username_/Project-Name.git" tabindex="0" role="button">
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon m-2">
     <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
@@ -205,18 +170,18 @@ The main technologies used in this project are:
 </ol>
 <p align="right" dir="auto">(<a href="#readme-top">back to top</a>)</p>
 
-<p align="right" dir="auto">(<a href="#readme-top">back to top</a>)</p>
-
-<h2 tabindex="-1" dir="auto"><a id="user-content-license" class="anchor" aria-hidden="true" href="#license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>License</h2>
+<hr>
+<h3 tabindex="-1" dir="auto"><a id="user-content-built-with" class="anchor" aria-hidden="true" href="#built-with"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>License</h3>
 <p dir="auto">Distributed under the MIT License. See <code>LICENSE.txt</code> for more information.</p>
 <p align="right" dir="auto">(<a href="#readme-top">back to top</a>)</p>
 
-<h2 tabindex="-1" dir="auto"><a id="user-content-contact" class="anchor" aria-hidden="true" href="#contact"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Contact</h2>
+<hr>
+<h3 tabindex="-1" dir="auto"><a id="user-content-built-with" class="anchor" aria-hidden="true" href="#built-with"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Contact Me</h3>
 <p dir="auto">MohammadReza Yazdanian 
     <!-- <a href="https://twitter.com/your_username" rel="nofollow">@your_twitter</a> -->
      - 
      <a href="mailto:mohammadreza.yazdanian.prog@gmail.com">mailto:mohammadreza.yazdanian.prog@gmail.com</a>
 </p>
-<p dir="auto">Project Link: <a href="https://github.com/Mr-Yazdanian-Dev/supermarket-website-with-Python-Django-main">https://github.com/Mr-Yazdanian-Dev/supermarket-website-with-Python-Django-main</a></p>
+<p dir="auto">Project Link: <a href="https://github.com/Mr-Yazdanian-Dev/Django-Website-1">Django-Website-1</a></p>
 <p align="right" dir="auto">(<a href="#readme-top">back to top</a>)</p>
 </article>
