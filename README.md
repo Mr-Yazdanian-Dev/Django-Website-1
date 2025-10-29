@@ -49,8 +49,47 @@
 
 <h2 tabindex="-1" dir="auto"><a id="user-content-about-the-project" class="anchor" aria-hidden="true" href="#about-the-project"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Overview of Project</h2>
 <p dir="auto"><a href="https://example.com" rel="nofollow" style="margin: 10px auto;">
-
-  https://github.com/MohammadReza96/Dj-supermarket/assets/108836322/556f4aa3-21e8-47d0-bc76-91e7c7f1ca90
+  <ul dir="auto">
+    <li id="home-page">
+        Home page
+    </li>
+</ul>
+  <img src="https://github.com/MohammadReza96/Dj-supermarket/assets/108836322/560e7eb7-2418-49a9-9fd4-af0c5019c1e7" alt="Product Name Screen Shot" style="width:300px;">
+<hr>
+<ul dir="auto">
+    <li id="favorite-page">
+        Favorite page
+    </li>
+</ul>
+<img src="https://github.com/MohammadReza96/Dj-supermarket/assets/108836322/185bcee4-fa41-46b7-a509-d39f1e9ec4dc" alt="Product Name Screen Shot" style="width: 300px;">
+<hr>
+<ul dir="auto">
+    <li id="order-page">
+        Order page
+    </li>
+</ul>
+<img src="https://github.com/MohammadReza96/Dj-supermarket/assets/108836322/fec74c1f-305a-4afe-a3d5-40cba9268528" alt="Product Name Screen Shot" style="width: 300px;">
+<hr>
+<ul dir="auto">
+    <li id="compare-page">
+        Compare page
+    </li>
+</ul>
+<img src="https://github.com/MohammadReza96/Dj-supermarket/assets/108836322/9e55a0cb-260a-46cc-a2ea-4825de285d30" alt="Product Name Screen Shot" style="width: 300px;">
+<hr>
+<ul dir="auto">
+    <li id="blog-page">
+        Blog page
+    </li>
+</ul>
+<img src="https://github.com/MohammadReza96/Dj-supermarket/assets/108836322/b3ca8dee-5a18-4681-a211-a5c50ff3e27d" alt="Product Name Screen Shot" style="width: 300px;">
+<hr>
+<ul dir="auto">
+    <li id="userpanel-page">
+        userpanel purchase history page
+    </li>
+</ul>
+<img src="https://github.com/MohammadReza96/Dj-supermarket/assets/108836322/4c41d642-fa7a-42d8-abc4-9789956b0a2f" alt="Product Name Screen Shot" style="width: 300px;">
   
 </a></p>
 <h3 dir="auto">In this website we have the applications below:</h3>
@@ -73,54 +112,19 @@
 
 
 <h3 tabindex="-1" dir="auto"><a id="user-content-built-with" class="anchor" aria-hidden="true" href="#built-with"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Built With</h3>
-<p dir="auto">I use the the technology below to create this project</p>
-<ul dir="auto">
-<li>
-    <a href="https://www.python.org" rel="nofollow">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="48" style="max-width: 100%;">
-    </a>
-</li>
-<li>
-    <a href="https://www.djangoproject.com" rel="nofollow">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="48" style="max-width: 100%;">
-    </a>
-</li>
-<li>
-    <a href="#" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="48" style="max-width: 100%;">
-    </a>
-</li>
-<li>
-    <a href="#" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="48" style="max-width: 100%;">
-    </a>
-</li>
-<li>
-    <a href="https://getbootstrap.com" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" width="48" style="max-width: 100%;">
-    </a>
-</li>
-<li>
-    <a href="https://www.javascript.com" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="48" style="max-width: 100%;">
-    </a>
-</li>
-<li>
-    <a href="https://jquery.com" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JQuery.svg" width="48" style="max-width: 100%;">
-    </a>
-</li>
-<li>
-    <a href="https://www.sqlite.org/index.html" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SQLite.svg" width="48" style="max-width: 100%;">
-    </a>
-</li>
-<li>
-    <a href="https://www.mysql.com" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="48" style="max-width: 100%;">
-    </a>
-</li>
-</ul>
+
+The main technologies used in this project are:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/AJAX_logo_by_gengns.svg" alt="AJAX" width="100" height="100"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MariaDB" width="50" height="50"/>
+</p>
 <p align="right" dir="auto">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -134,6 +138,7 @@
 <p dir="auto">
     <em>
         With the steps below you can run the project on your local system
+
     </em>
 </p>
 <ol dir="auto">
@@ -199,51 +204,6 @@
 </li>
 </ol>
 <p align="right" dir="auto">(<a href="#readme-top">back to top</a>)</p>
-<h2 tabindex="-1" dir="auto"><a id="user-content-usage" class="anchor" aria-hidden="true" href="#usage"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Usage</h2>
-<h3 dir="auto">The images below show some part of the project</h3>
-
-<ul dir="auto">
-    <li id="home-page">
-        Home page
-    </li>
-</ul>
-  <img src="https://github.com/MohammadReza96/Dj-supermarket/assets/108836322/560e7eb7-2418-49a9-9fd4-af0c5019c1e7" alt="Product Name Screen Shot" style="max-width: 100%;">
-<hr>
-<ul dir="auto">
-    <li id="favorite-page">
-        Favorite page
-    </li>
-</ul>
-<img src="https://github.com/MohammadReza96/Dj-supermarket/assets/108836322/185bcee4-fa41-46b7-a509-d39f1e9ec4dc" alt="Product Name Screen Shot" style="max-width: 100%;">
-<hr>
-<ul dir="auto">
-    <li id="order-page">
-        Order page
-    </li>
-</ul>
-<img src="https://github.com/MohammadReza96/Dj-supermarket/assets/108836322/fec74c1f-305a-4afe-a3d5-40cba9268528" alt="Product Name Screen Shot" style="max-width: 100%;">
-<hr>
-<ul dir="auto">
-    <li id="compare-page">
-        Compare page
-    </li>
-</ul>
-<img src="https://github.com/MohammadReza96/Dj-supermarket/assets/108836322/9e55a0cb-260a-46cc-a2ea-4825de285d30" alt="Product Name Screen Shot" style="max-width: 100%;">
-<hr>
-<ul dir="auto">
-    <li id="blog-page">
-        Blog page
-    </li>
-</ul>
-<img src="https://github.com/MohammadReza96/Dj-supermarket/assets/108836322/b3ca8dee-5a18-4681-a211-a5c50ff3e27d" alt="Product Name Screen Shot" style="max-width: 100%;">
-<hr>
-<ul dir="auto">
-    <li id="userpanel-page">
-        userpanel purchase history page
-    </li>
-</ul>
-<img src="https://github.com/MohammadReza96/Dj-supermarket/assets/108836322/4c41d642-fa7a-42d8-abc4-9789956b0a2f" alt="Product Name Screen Shot" style="max-width: 100%;">
-
 
 <p align="right" dir="auto">(<a href="#readme-top">back to top</a>)</p>
 
